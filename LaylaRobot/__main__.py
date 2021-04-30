@@ -197,7 +197,7 @@ def start(update: Update, context: CallbackContext):
                 reply_markup=InlineKeyboardMarkup(
                     [[
                         InlineKeyboardButton(
-                            text="🔥 Add 𝐑𝐀𝐕𝐀𝐍 to your group🌝",
+                            text="🔥 Add BOT to your group🌝",
                             url="t.me/{}?startgroup=true".format(
                                 context.bot.username))
                     ],
