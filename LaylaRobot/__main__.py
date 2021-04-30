@@ -54,7 +54,7 @@ def get_readable_time(seconds: int) -> str:
 PM_START_TEXT = """
 Hi {}, my name is {}! 
 You can find my list of available commands with /help.
-i'm a group manager bot. Maintained by @HEROGAMERS1 ❤
+i'm a group manager bot. Maintained by @I_AM_DIK ❤
 
 """
 
@@ -79,7 +79,7 @@ And the following:
 SAITAMA_IMG = "https://telegra.ph/file/b53a6ce1358c2da9cfbad.jpg"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
-Supporting him; [𝐑𝐀𝐕𝐀𝐍](t.me/Itznik_x)"""
+Supporting him; [𝙍𝘼𝙑𝘼𝙉](t.me/I_AM_DIK)"""
 
 IMPORTED = {}
 MIGRATEABLE = []
